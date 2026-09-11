@@ -1,0 +1,6 @@
+{
+  "name": "GroundWatch - Real-Time Groundwater Evaluation Poster",
+  "description": "Premium hackathon promotional poster and interactive prototype infographic for GroundWatch: Real-Time Groundwater Resource Evaluation Using DWLR Data.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
